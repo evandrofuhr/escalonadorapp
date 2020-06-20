@@ -3,3 +3,5 @@
 ################################################################################
 
 /EscalonadorApp/bin/Debug
+/EscalonadorApp/obj/Debug
+/.vs/EscalonadorApp/v16/Server/sqlite3
